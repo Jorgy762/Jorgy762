@@ -7,7 +7,7 @@
 ## 🪖 What I Do
 
 - **Day job:** Windows Server Analyst / Systems Administrator
-- **Reserve service:** Military Police Officer (Army Reserve, 13 years) | Unit Information Systems Security Officer | Unit Security Supervisor
+- **Reserve service:** Military Police NCO (Sergeant, Army Reserve, 13 years) | Unit Information Systems Security Officer | Unit Security Supervisor
 - **Currently studying:** MD-102 Endpoint Administrator
 
 ---
@@ -59,7 +59,7 @@
 
 ## 📬 Connect
 
-- LinkedIn: [rjorg556](https://www.linkedin.com/in/rjorg556/)
+- LinkedIn: [rjorg556](https://www.linkedin.com/in/rjorg762/)
 
 ---
 
