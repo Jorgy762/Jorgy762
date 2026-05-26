@@ -59,7 +59,7 @@
 
 ## 📬 Connect
 
-- LinkedIn: [rjorg556](https://www.linkedin.com/in/rjorg762/)
+- LinkedIn: [rjorg762](https://www.linkedin.com/in/rjorg762/)
 
 ---
 
