@@ -8,7 +8,7 @@
 
 - **Day job:** Windows Server Analyst / Systems Administrator
 - **Reserve service:** Military Police NCO (Sergeant, Army Reserve, 13 years) | Unit Information Systems Security Officer | Unit Security Supervisor
-- **Currently studying:** MD-102 Endpoint Administrator
+- **Currently studying:** MD-102 Endpoint Administrator, MSc in Computer Science @ University of Colorado - Boulder
 
 ---
 
